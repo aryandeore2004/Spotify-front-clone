@@ -1,2 +1,2 @@
 # Spotify-front-clone
-Languege Used :- HTML ,CSS .
+Languege Used :- CSS .
